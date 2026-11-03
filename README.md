@@ -33,5 +33,5 @@
 ---
 
 ### 📫 Контакты для связи
-* **Telegram:** [@ваш_никнейм](https://t.me/ваш_никнейм)
-* **Email:** ваш_email@example.com
+* **Telegram:** https://t.me/alllkko
+
